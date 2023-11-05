@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/0001/0001-01_create_product_table.sql
+  - include:
+      file: db/changelog/0001/0001-02_insert_products.sql
